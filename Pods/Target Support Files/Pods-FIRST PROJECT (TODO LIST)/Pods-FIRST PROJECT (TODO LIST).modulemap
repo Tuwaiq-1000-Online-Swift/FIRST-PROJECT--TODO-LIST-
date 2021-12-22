@@ -1,0 +1,6 @@
+framework module Pods_FIRST_PROJECT__TODO_LIST_ {
+  umbrella header "Pods-FIRST PROJECT (TODO LIST)-umbrella.h"
+
+  export *
+  module * { export * }
+}
